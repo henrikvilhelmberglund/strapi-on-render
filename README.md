@@ -1,3 +1,9 @@
+# Archived due to not using right now
+
+It works though! But for convenience (need multiple Strapi servers) running locally instead.
+
+Original readme below!
+
 # Deploy Strapi to Render
 
 This is a sample [Strapi](https://strapi.io/) app, configured for deployment to [Render](https://render.com). It uses a SQLite database, which is stored on a [persistent disk](https://render.com/docs/disks) along with uploaded Media Library files.
